@@ -11,7 +11,7 @@
 
 软件代码在 ChatRoom文件夹中。
 
-安装包为 ChatRoom.apk 。
+安装包为 ChatRoom.apk ，在右侧Releases中。
 
 如果只想使用可以不下代码，只下apk；想研读代码就下ChatRoom文件夹。
 
